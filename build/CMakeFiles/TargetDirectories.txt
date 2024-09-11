@@ -1,0 +1,7 @@
+/home/pat/EG7500_analyzer/EG7500DH_Saleae_Analyzer/build/CMakeFiles/MySerialAnalyzer.dir
+/home/pat/EG7500_analyzer/EG7500DH_Saleae_Analyzer/build/CMakeFiles/edit_cache.dir
+/home/pat/EG7500_analyzer/EG7500DH_Saleae_Analyzer/build/CMakeFiles/rebuild_cache.dir
+/home/pat/EG7500_analyzer/EG7500DH_Saleae_Analyzer/build/CMakeFiles/list_install_components.dir
+/home/pat/EG7500_analyzer/EG7500DH_Saleae_Analyzer/build/CMakeFiles/install.dir
+/home/pat/EG7500_analyzer/EG7500DH_Saleae_Analyzer/build/CMakeFiles/install/local.dir
+/home/pat/EG7500_analyzer/EG7500DH_Saleae_Analyzer/build/CMakeFiles/install/strip.dir
